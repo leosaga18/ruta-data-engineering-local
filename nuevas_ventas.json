@@ -1,0 +1,20 @@
+[
+    {
+        "TransaccionID": 101,
+        "Producto": "Laptop ASUS Vivobook",
+        "Monto": 2500000,
+        "ClienteID": 1
+    },
+    {
+        "TransaccionID": 102,
+        "Producto": "Monitor Gamer LG 24",
+        "Monto": 850000,
+        "ClienteID": 2
+    },
+    {
+        "TransaccionID": 103,
+        "Producto": "Teclado Mecanico Logitech",
+        "Monto": 320000,
+        "ClienteID": 1
+    }
+]
